@@ -1,5 +1,6 @@
 {
   "name": "ai-chunking-app",
+  "homepage":"https://thelip-bytes.github.io/ai-chunking-app/".
   "private": true,
   "version": "0.0.0",
   "type": "module",
